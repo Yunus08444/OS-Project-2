@@ -1,0 +1,8 @@
+2026-09-29 10:00:01 auth ERROR Login failed
+2026-09-29 10:01:15 auth ERROR Wrong password
+2026-09-29 10:02:20 db ERROR Connection failed
+2026-09-29 10:03:11 api WARN Slow request
+2026-09-29 10:04:05 auth ERROR User blocked
+2026-09-29 10:05:30 db ERROR Timeout
+2026-09-29 10:06:10 api ERROR Request failed
+2026-09-29 10:07:25 auth WARN Password expires soon
